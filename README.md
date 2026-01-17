@@ -1,5 +1,7 @@
 # GigRadar Support Engineer Technical Test
 
+Sheets file: https://docs.google.com/spreadsheets/d/1Z56zYHKtyIbKIwq1hNPIvRGpxdwxZIEvtjp1YFRK960/edit?gid=688467528#gid=688467528
+
 ## Commands
 
 ### Ingest
