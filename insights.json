@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-01-17T06:27:37.286Z",
+  "totalRecordsAnalyzed": 50,
+  "top3Features": [
+    {
+      "name": "avgQualityScore",
+      "impact": 125.97226552377678,
+      "correlation": -125.97226552377678
+    },
+    {
+      "name": "avgSkillsScore",
+      "impact": 81.07896091622356,
+      "correlation": 81.07896091622356
+    },
+    {
+      "name": "avgDeadlinesScore",
+      "impact": 39.86502647700823,
+      "correlation": 39.86502647700823
+    }
+  ],
+  "top5Freelancers": [
+    {
+      "name": "Viacheslav B.",
+      "ciphertext": "~01d6531ab3ac38a6dc",
+      "earnings": 21237917.78
+    },
+    {
+      "name": "Baati M.",
+      "ciphertext": "~01637b1cae80631f74",
+      "earnings": 8258995.52
+    },
+    {
+      "name": "Jagdish H.",
+      "ciphertext": "~010f99f42a6af5b42e",
+      "earnings": 6860686.3
+    },
+    {
+      "name": "Kyrylo K.",
+      "ciphertext": "~011235cd469f9c7f49",
+      "earnings": 3267588.75
+    },
+    {
+      "name": "Roy V.",
+      "ciphertext": "~015fd9ebd705732450",
+      "earnings": 2553218.87
+    }
+  ]
+}

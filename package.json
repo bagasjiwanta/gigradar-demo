@@ -1,0 +1,39 @@
+{
+  "name": "gigradar-demo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bagasjiwanta/gigradar-demo#readme",
+  "bugs": {
+    "url": "https://github.com/bagasjiwanta/gigradar-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagasjiwanta/gigradar-demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "ts-node src/index.ts",
+    "ingest": "ts-node src/index.ts ingest",
+    "analyze": "ts-node src/index.ts analyze",
+    "ingest-analyze": "ts-node src/index.ts ingest-analyze",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "axios": "^1.13.2",
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3",
+    "googleapis": "^105.0.0",
+    "ml-matrix": "^6.12.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
